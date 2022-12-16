@@ -1,0 +1,60 @@
+.activities-section{
+    padding: 5% 10%;
+}
+
+.activities-info h3 {
+    background-color: #00A8E6;
+    width: 251px;
+    padding: 5px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .activities-info img{
+    transition: all .5s;
+  }
+
+  .activities-info img:hover{
+      transform: translateY(-10px);
+  }
+
+  .active-bottom{
+    margin-top: 60px;
+    background-color: #11275C;
+    width: 1061px;
+    height: 234px;
+  }
+
+  .active-bottom-left {
+    margin: 73px 48px;
+    
+  }
+
+  .active-bottom-left h3{
+    color: white;
+    font-weight: 600;
+  }
+  .active-bottom-left p{
+    color: white;
+    font-weight: 600;
+  }
+
+  .active-bottom-right {
+    margin-top: 36px;
+  }
+
+
+  .active-bottom-right button {
+    padding: 20px;
+    background: #00a8e6;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-left: -23px;
+    margin-bottom: 28px;
+    color: white;
+    font-weight: 600;
+  }

@@ -1,0 +1,35 @@
+.nav-section{
+   padding: 0% 10%; 
+   border-bottom: 1px solid rgba(128, 128, 128, 0.407);
+}
+.menu-img img {
+    width: 81px;
+    margin-top: 5px;
+  }
+
+.menu-nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-nav ul li {
+    list-style: none;
+    margin-top: 27px;
+  }
+.menu-nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin-right: 42px;
+  }
+
+  .menu-input input {
+    padding: 8px;
+    margin-top: 19px;
+    border: none;
+    outline: none;
+    color: red;
+    font-size: 18px;
+    border-radius: 7px;
+    border: 1px solid gray;
+  }
